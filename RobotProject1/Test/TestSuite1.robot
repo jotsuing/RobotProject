@@ -26,6 +26,11 @@ MyThirdTest
     [Documentation]    This is my third test 
     Log                Insede third test
     
+MyFourthTest
+    [Tags]             Sprint1   
+    [Documentation]    This is my fourth test 
+    Log                Insede fourth test
+    
 # SampleLoginTest
     # [Documentation]              This is a sample login test
     # LoginKW
